@@ -1,8 +1,8 @@
 <p align="center" style="display: flex; align-items: center;">
   <img src="https://readme-typing-svg.herokuapp.com?font=DM+Serif+Text&size=48&pause=1000&color=FFBF50&center=true&width=600&height=80&lines=I'm+Mohan+Shil;" alt="Typing SVG"/>
-<h3 align="center">
+<h2 align="center">
 Senior QA Automation Tester | Functional & Mobile Tester
-</h3>
+</h2>
 </p>
 
 ---
