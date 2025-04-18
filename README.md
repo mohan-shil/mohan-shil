@@ -37,12 +37,7 @@ Senior QA Automation Tester | Functional & Mobile Tester
 
 <p align="center">
   <a href="mailto:mohan.shil.007@gmail.com" target="_blank">
-    <img
-  src="https://www.svgrepo.com/show/485253/email-opened.svg"
-  alt="Email Opened Icon"
-  height="45"
-  style="margin: 0 20px;"
-/>
+    <img src="https://www.svgrepo.com/show/485253/email-opened.svg" alt="Email Opened Icon" height="45" style="margin: 0 20px;" />
   </a>
   <a href="https://github.com/mohan-shil" target="_blank">
     <img src="https://cdn.simpleicons.org/github/181717" height="45" alt="GitHub" style="margin: 0 20px;" />
