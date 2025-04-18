@@ -33,26 +33,24 @@ Senior QA Automation Tester | Functional & Mobile Tester
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4?size=64" alt="Tailwind CSS" style="margin: 0 12px;"/>
 </p>
 
+---
+
 ### 📫 Connect with Me:
 
 <p align="center">
   <a href="mailto:mohan.shil.007@gmail.com" target="_blank">
-    <img src="https://www.svgrepo.com/show/485253/email-opened.svg" alt="Email Opened Icon" height="45" style="margin: 0 20px;" />
+    <img src="https://www.svgrepo.com/show/485253/email-opened.svg" alt="Email Opened Icon" height="47" style="margin: 0 25px;" />
   </a>
   <a href="https://github.com/mohan-shil" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/181717" height="45" alt="GitHub" style="margin: 0 20px;" />
+    <img src="https://cdn.simpleicons.org/github/181717" height="47" alt="GitHub" style="margin: 0 25px;" />
   </a>
   <a href="https://mohanshil.vercel.app/" target="_blank">
-<img
-  src="https://www.svgrepo.com/show/354513/vercel-icon.svg"
-  alt="Vercel Icon"
-  height="45"
-  style="margin: 0 20px;"
-/> </a>
+    <img src="https://www.svgrepo.com/show/354513/vercel-icon.svg" alt="Vercel Icon" height="47" style="margin: 0 25px;" /> 
+  </a>
   <a href="https://www.linkedin.com/in/mohan-shil/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" alt="LinkedIn" style="margin: 0 20px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="47" alt="LinkedIn" style="margin: 0 25px;" />
   </a>
   <a href="https://www.upwork.com/freelancers/~015c39fcbfad2d0cd9" target="_blank">
-    <img src="https://cdn.simpleicons.org/upwork/6FDA44" height="45" alt="Upwork" style="margin: 0 20px;" />
+    <img src="https://cdn.simpleicons.org/upwork/6FDA44" height="47" alt="Upwork" style="margin: 0 25px;" />
   </a>
 </p>
