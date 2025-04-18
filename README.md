@@ -7,7 +7,7 @@ Senior QA Automation Tester | Functional & Mobile Tester
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools:
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E?size=64" alt="JavaScript" style="margin: 0 12px;"/>
