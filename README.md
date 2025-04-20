@@ -42,9 +42,6 @@ QA Automation Tester | ðŸ§ª SDET | Functional & Mobile Test Automation Ninja ðŸ¥
   <a href="mailto:mohan.shil.007@gmail.com" target="_blank">
     <img src="https://www.svgrepo.com/show/485253/email-opened.svg" alt="Email Opened Icon" height="47" style="margin: 0 25px;" />
   </a>
-  <a href="https://github.com/mohan-shil" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/181717" height="47" alt="GitHub" style="margin: 0 25px;" />
-  </a>
   <a href="https://mohanshil.vercel.app/" target="_blank">
     <img src="https://www.svgrepo.com/show/354513/vercel-icon.svg" alt="Vercel Icon" height="47" style="margin: 0 25px;" /> 
   </a>
