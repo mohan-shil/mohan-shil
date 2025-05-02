@@ -1,7 +1,7 @@
 <p align="center" style="display: flex; align-items: center;">
   <img src="https://readme-typing-svg.herokuapp.com?font=DM+Serif+Text&size=48&pause=1000&color=FFBF50&center=true&width=600&height=80&lines=I'm+Mohan+Shil;" alt="Typing SVG"/>
 <h2 align="center">
-QA Automation Tester | 🧪 SDET | Functional & Mobile Test Ninja 🥷🥷
+QA Automation Tester | 🧪 SDET | Functional & Mobile Test Ninja 🥷
 
   
 </h2>
