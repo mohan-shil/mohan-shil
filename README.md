@@ -40,16 +40,16 @@ QA Automation Tester | 🧪 SDET | Functional & Mobile Test Ninja 🥷
 ### 📫 Connect with Me:
 
 <div align="center" >
-  <a href="mailto:mohan.shil.007@gmail.com"  style="display: inline-block; margin: 15px 25px; ">
+  <a href="mailto:mohan.shil.007@gmail.com"  style="  margin: 15px 25px; ">
     <img src="https://www.svgrepo.com/show/485253/email-opened.svg" alt="Email Opened Icon" height="60" />
   </a>
-  <a href="https://mohanshil.vercel.app/"  style="display: inline-block; margin: 15px 25px;">
+  <a href="https://mohanshil.vercel.app/"  style=" margin: 15px 25px;">
     <img src="https://www.svgrepo.com/show/354513/vercel-icon.svg" alt="Vercel Icon" height="60" />
   </a>
-  <a href="https://www.linkedin.com/in/mohan-shil/"  style="display: inline-block; margin: 15px 25px;">
+  <a href="https://www.linkedin.com/in/mohan-shil/"   margin: 15px 25px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="60" alt="LinkedIn"  />
   </a>
-  <a href="https://www.upwork.com/freelancers/~015c39fcbfad2d0cd9"  style="display: inline-block; margin: 15px 25px;">
+  <a href="https://www.upwork.com/freelancers/~015c39fcbfad2d0cd9"  style=" margin: 15px 25px;">
     <img src="https://cdn.simpleicons.org/upwork/6FDA44" height="60" alt="Upwork" />
   </a>
 </div>
