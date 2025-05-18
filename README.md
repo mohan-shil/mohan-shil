@@ -15,8 +15,8 @@ QA Automation Tester | 🧪 SDET | Functional & Mobile Test Ninja 🥷
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E?size=64" alt="JavaScript" style="margin: 0 12px;"/>
   <img src="https://cdn.simpleicons.org/typescript/3178C6?size=64" alt="TypeScript" style="margin: 0 12px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" height="64" style="margin: 0 12px;" />
-<!--   <img src="https://cdn.simpleicons.org/cypress/17202C?size=64" alt="Cypress" style="margin: 0 12px;"/>
-  <img src="https://cdn.simpleicons.org/webdriverio/21CBD5?size=64" alt="WebdriverIO" style="margin: 0 12px;"/> -->
+<!--   <img src="https://cdn.simpleicons.org/cypress/17202C?size=64" alt="Cypress" style="margin: 0 12px;"/>  -->
+  <img src="https://cdn.simpleicons.org/webdriverio/21CBD5?size=64" alt="WebdriverIO" style="margin: 0 12px;"/>
   <img src="https://cdn.simpleicons.org/postman/FF6C37?size=64" alt="Postman" style="margin: 0 12px;"/>
 <!--   <img src="https://cdn.simpleicons.org/jest/C21325?size=64" alt="Jest" style="margin: 0 12px;"/>
   <img src="https://cdn.simpleicons.org/jira/0052CC?size=64" alt="Jira" style="margin: 0 12px;"/> -->
