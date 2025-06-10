@@ -3,7 +3,7 @@
 <h2 align="center">
 QA Automation Tester | 🧪 SDET | Functional & Mobile Test Ninja 🥷
 
-  s
+  
 </h2>
 </p>
 
