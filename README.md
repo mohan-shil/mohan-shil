@@ -17,8 +17,8 @@ QA Automation Tester | 🧪 SDET | Functional & Mobile Test Ninja 🥷
 <!--   <img src="https://cdn.simpleicons.org/cypress/17202C?size=64" alt="Cypress" style="margin: 0 12px;"/>  -->
   <img src="https://cdn.simpleicons.org/webdriverio/21CBD5?size=64" alt="WebdriverIO" style="margin: 0 12px;"/>
   <img src="https://cdn.simpleicons.org/postman/FF6C37?size=64" alt="Postman" style="margin: 0 12px;"/>
-<!--   <img src="https://cdn.simpleicons.org/jest/C21325?size=64" alt="Jest" style="margin: 0 12px;"/>
-  <img src="https://cdn.simpleicons.org/jira/0052CC?size=64" alt="Jira" style="margin: 0 12px;"/> -->
+  <img src="https://cdn.simpleicons.org/jest/C21325?size=64" alt="Jest" style="margin: 0 12px;"/>
+  <img src="https://cdn.simpleicons.org/jira/0052CC?size=64" alt="Jira" style="margin: 0 12px;"/>
   <img src="https://devicon-website.vercel.app/api/azure/original.svg" alt="Azure" height="64" style="margin: 0 12px;" />
   <img src="https://cdn.simpleicons.org/docker/2496ED?size=64" alt="Docker" style="margin: 0 12px;"/>
 <!--   <img src="https://cdn.simpleicons.org/apachejmeter/009639?size=64" alt="JMeter" style="margin: 0 12px;"/>
