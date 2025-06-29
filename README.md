@@ -21,8 +21,8 @@ QA Automation Tester | 🧪 SDET | Functional & Mobile Test Ninja 🥷
   <img src="https://cdn.simpleicons.org/jira/0052CC?size=64" alt="Jira" style="margin: 0 12px;"/>
   <img src="https://devicon-website.vercel.app/api/azure/original.svg" alt="Azure" height="64" style="margin: 0 12px;" />
   <img src="https://cdn.simpleicons.org/docker/2496ED?size=64" alt="Docker" style="margin: 0 12px;"/>
-<!--   <img src="https://cdn.simpleicons.org/apachejmeter/009639?size=64" alt="JMeter" style="margin: 0 12px;"/>
-  <img src="https://cdn.simpleicons.org/git/F05032?size=64" alt="Git" style="margin: 0 12px;"/> -->
+  <img src="https://cdn.simpleicons.org/apachejmeter/009639?size=64" alt="JMeter" style="margin: 0 12px;"/>
+  <img src="https://cdn.simpleicons.org/git/F05032?size=64" alt="Git" style="margin: 0 12px;"/>
   <img src="https://cdn.simpleicons.org/react/61DAFB?size=64" alt="React" style="margin: 0 12px;"/>
   <img src="https://cdn.simpleicons.org/redux/764ABC?size=64" alt="Redux" style="margin: 0 12px;"/>
   <img src="https://cdn.simpleicons.org/node.js/339933?size=64" alt="Node.js" style="margin: 0 12px;"/>
