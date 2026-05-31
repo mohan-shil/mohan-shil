@@ -12,7 +12,7 @@ QA Automation Tester | 🧪 SDET | Functional & Mobile Test Ninja 🥷
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E?size=64" alt="JavaScript" style="margin: 0 12px;"/>
-  <img src="https://cdn.simpleicons.org/typescript/3178C6?size=64" alt="TypeScript" style="margin: 0 12px;"/>dsafcsa
+  <img src="https://cdn.simpleicons.org/typescript/3178C6?size=64" alt="TypeScript" style="margin: 0 12px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" height="64" style="margin: 0 12px;" />
   <!-- <img src="https://cdn.simpleicons.org/cypress/17202C?size=64" alt="Cypress" style="margin: 0 12px;"/> -->
   <!-- <img src="https://cdn.simpleicons.org/webdriverio/21CBD5?size=64" alt="WebdriverIO" style="margin: 0 12px;"/> -->
